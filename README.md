@@ -71,4 +71,4 @@ Una vez hecho esto se puede configurar el [Frontend](https://github.com/tellxmas
 
 ## Licencia
 
-Para más información sobre las condiciones de uso de este software, por favor revisa el [archivo de licencia](LICENSE).
+Para más información sobre las condiciones de uso de este software, por favor revisa el [archivo de licencia](LICENSE.md).
